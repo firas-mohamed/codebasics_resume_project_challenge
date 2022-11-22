@@ -26,7 +26,11 @@ tasks.
 
 # Dashboard
 
-
+<img width="1404" alt="1st" src="https://user-images.githubusercontent.com/118466113/203379814-301f2921-67db-4927-9bc5-7113f049d7a9.png">
+<img width="1400" alt="2nd" src="https://user-images.githubusercontent.com/118466113/203379857-7fd7f8d0-fc95-43f8-be15-08e88d5bca65.png">
+<img width="1398" alt="3rd" src="https://user-images.githubusercontent.com/118466113/203379870-2f2d15d8-dc55-4cad-97b0-6fa8cb3cf4b9.png">
+<img width="1403" alt="4th" src="https://user-images.githubusercontent.com/118466113/203379881-a8e21532-87f1-48b7-92d7-b8d6d6b7a6f6.png">
+<img width="1402" alt="5th" src="https://user-images.githubusercontent.com/118466113/203379895-11ad15ac-3c2e-46e3-943a-1498b33da6ea.png">
 
 
 
